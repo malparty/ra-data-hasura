@@ -35,7 +35,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "graphql-ast-types-browser": "~1.0.2",
+    "graphql-ast-types-browser": "Kmaschta/graphql-ast-types#master",
     "lodash": "~4.17.21",
     "ra-data-graphql": "^3.19.11"
   },
